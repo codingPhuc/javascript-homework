@@ -4,7 +4,7 @@ var NumberValue = 42;
 var StringValue= "Hello";   
 var BooleanValue = true;     
 var UndefinedValue;         
-var NullValue 
+var NullValue  = null ;
 
 
 console.log(typeof myNumber);    
